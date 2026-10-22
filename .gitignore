@@ -1,0 +1,16 @@
+# Portfolio repository: do not accidentally add the private Unity project or raw assets.
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+.vs/
+*.sln
+*.csproj
+*.user
+# Unity project folders should not be copied into this curated source showcase.
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
